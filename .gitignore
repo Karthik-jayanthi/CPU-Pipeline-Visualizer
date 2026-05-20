@@ -1,0 +1,31 @@
+# deps
+node_modules/
+.pnp
+.pnp.js
+
+# build output
+.next/
+out/
+dist/
+
+# env
+.env
+.env.local
+.env.*.local
+
+# editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
